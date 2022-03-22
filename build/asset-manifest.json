@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.84e4c55f.css",
+    "main.js": "/static/js/main.0326fb39.js",
+    "static/js/787.ff2dca88.chunk.js": "/static/js/787.ff2dca88.chunk.js",
+    "static/media/pope-francis.@2x.png": "/static/media/pope-francis.@2x.b6b9f1fc49046a0f53a0.png",
+    "static/media/bg-people.@2x.png": "/static/media/bg-people.@2x.f7a5848014adc814946b.png",
+    "static/media/malala.png": "/static/media/malala.6fff1738f6c2babec7d4.png",
+    "static/media/cristina.png": "/static/media/cristina.578fd8dccde3b532b7d0.png",
+    "static/media/elon.png": "/static/media/elon.f8b1b4c6fe9bb304f8aa.png",
+    "static/media/kanye.png": "/static/media/kanye.7ccf9a35864f887ba9fb.png",
+    "static/media/mark.png": "/static/media/mark.59b80875c8d7a112bd90.png",
+    "static/media/greta.png": "/static/media/greta.638cd0515df5e204e635.png",
+    "static/media/bg-people.png": "/static/media/bg-people.36b10a0945b5262b15e9.png",
+    "static/media/pope-francis.png": "/static/media/pope-francis.7a1a9d7f08f02ebd157f.png",
+    "static/media/wikipedia.svg": "/static/media/wikipedia.ca93bb0ff3a7c8d9c2d8.svg",
+    "static/media/thumbs-down.svg": "/static/media/thumbs-down.dc667735e61e11749df4.svg",
+    "static/media/thumbs-up.svg": "/static/media/thumbs-up.29598dc33e0987112b3f.svg",
+    "static/media/twitter.svg": "/static/media/twitter.cb003718c00c21335b2e.svg",
+    "static/media/facebook.svg": "/static/media/facebook.4cbf788d6e5a74f902d3.svg",
+    "static/media/search.svg": "/static/media/search.266421b24e33de4f4844f3e6baf44e5a.svg",
+    "static/media/close.svg": "/static/media/close.d2b0d78f47c8a799cee7.svg",
+    "index.html": "/index.html",
+    "static/media/hamburger.svg": "/static/media/hamburger.d87f30c54c4eede0c3f3.svg",
+    "main.84e4c55f.css.map": "/static/css/main.84e4c55f.css.map",
+    "main.0326fb39.js.map": "/static/js/main.0326fb39.js.map",
+    "787.ff2dca88.chunk.js.map": "/static/js/787.ff2dca88.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84e4c55f.css",
+    "static/js/main.0326fb39.js"
+  ]
+}
