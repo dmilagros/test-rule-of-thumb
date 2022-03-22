@@ -1,0 +1,21 @@
+.thumbs-down {
+	width: 1.88rem;
+	height: 1.88rem;
+	min-width: 1.88rem;
+	min-height: 1.88rem;
+	background: rgba(var(--color-yellow-negative), .8);
+	border: 2px solid rgba(var(--color-yellow-negative), .8);
+	padding: auto auto;
+	display: flex;
+}
+
+.thumbs-down--selected {
+	width: 1.88rem;
+	height: 1.88rem;
+	min-width: 1.88rem;
+	min-height: 1.88rem;
+	background: rgba(var(--color-yellow-negative), .8);
+	padding: auto auto;
+	display: flex;
+	border: 2px solid var(--color-white);
+}

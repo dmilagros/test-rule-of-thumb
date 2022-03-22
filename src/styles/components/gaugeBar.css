@@ -1,0 +1,33 @@
+.gauge-bar {
+	height: 2.25rem;
+	display: flex;
+}
+
+.gauge-bar__thumbs-up {
+	height: 100%;
+	background: rgba(var(--color-green-positive), .6);
+	display: flex;
+	align-items: center;
+	flex-direction: row;
+	justify-content: flex-start;
+	padding: 0 0.5rem;
+}
+
+.gauge-bar__thumbs-up-text {
+	color: var(--color-white);
+}
+
+.gauge-bar__thumbs-down {
+	height: 100%;
+	background: rgba(var(--color-yellow-negative), .6);
+	display: flex;
+	align-items: center;
+	flex-direction: row;
+	justify-content: flex-end;
+	padding: 0 0.5rem;
+}
+
+.gauge-bar__thumbs-down-text {
+	color: var(--color-white);
+	
+}

@@ -1,0 +1,21 @@
+.select {
+	display: none;
+}
+
+@media all and (min-width: 500px) {
+
+}
+
+@media all and (min-width: 768px) {
+	.select {
+		display: flex;
+		margin-left: auto;
+		width: 10.81rem;
+		height: 2.25rem;
+		border: 2px solid var(--color-darker-gray);
+
+		appearance: none;
+		-webkit-appearance: none;
+		-moz-appearance: none;
+	}	
+}
